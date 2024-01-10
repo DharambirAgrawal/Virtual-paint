@@ -2,7 +2,8 @@
 
 ## Overview
 
-Virtual Paint is a simple computer vision project using OpenCV in Python to create a virtual painting experience. The program allows users to draw on a canvas using different colors by waving specific objects in front of a camera.
+  Virtual Paint is a simple computer vision project using OpenCV in Python to create a virtual painting experience. The program allows users to draw on a canvas using different colors by 
+  waving specific objects in front of a camera.
 
 ## Features
 
@@ -27,12 +28,12 @@ Virtual Paint is a simple computer vision project using OpenCV in Python to crea
 
 2. Install the required dependencies
 
-  ```bash
+   ```bash
    pip install opencv-python numpy
 
 3. Run the Virtual Paint program
-  ```bash
-python virtual_paint.py
+   ```bash
+   python virtual_paint.py
 
 ## Adjust camera settings if needed.
 
