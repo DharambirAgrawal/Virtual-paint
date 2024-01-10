@@ -25,12 +25,12 @@ Virtual Paint is a simple computer vision project using OpenCV in Python to crea
    git clone https://github.com/yourusername/virtual-paint.git
    cd virtual-paint
 
-## Install the required dependencies
+2. Install the required dependencies
 
   ```bash
 pip install opencv-python numpy
 
-## Run the Virtual Paint program
+3. Run the Virtual Paint program
   ```bash
 python virtual_paint.py
 
